@@ -1,6 +1,6 @@
 # Python Quiz Game
 
-Welcome to the Python Quiz Game! This is a simple program made to help you study Python while tracking your score to improve your skills.
+Welcome to the Python Quiz Game! This is a simple program made by me, Gianmarco, to help you study Python while tracking your score to improve your skills.
 
 ## How to Play
 
